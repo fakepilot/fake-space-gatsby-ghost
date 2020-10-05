@@ -1,10 +1,10 @@
 {
     "development": {
-        "apiUrl": "https://pilot.army",
+        "apiUrl": "https://duoself.com",
         "contentApiKey": "41fbd4a675d8b611eaaaf12819"
     },
     "production": {
-        "apiUrl": "https://pilot.army",
+        "apiUrl": "https://duoself.com",
         "contentApiKey": "41fbd4a675d8b611eaaaf12819"
     }
 }
